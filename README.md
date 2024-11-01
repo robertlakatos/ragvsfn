@@ -6,9 +6,10 @@ The development of generative large language models (G-LLM) opened up new opport
 
 ## Folders
 
-- /corn: Measurement results on the corn data
-- /covid: Train and test data and measurement results on COVID-19 test data. In addition, source codes for RAG and fine-tuning.
-- /ub: Measurement results on the urban monitoring data
+- /corn: Measurement results on the corn data.
+- /covid: Train and test data and measurement results on [COVID-19](https://pmc.ncbi.nlm.nih.gov/articles/PMC7251955/) test data. In addition, source codes for RAG and fine-tuning.
+- /ub: Measurement results on the urban monitoring data.
+- /medquad: Train and test data and measurement results on [MedQuAD](https://huggingface.co/datasets/lavita/MedQuAD) test data. In addition, source codes for RAG and fine-tuning.
 
 ## How to cite
 
